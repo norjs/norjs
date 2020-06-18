@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/norjs/angularjs-project-template#readme",
   "dependencies": {
-    "angular": "^1.7.9",
+    "angular": "^1.8.0",
     "angular-translate": "^2.18.1",
     "angular-ui-router": "^1.0.23",
     "lodash": "^4.17.15",
